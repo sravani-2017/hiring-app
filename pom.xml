@@ -7,8 +7,10 @@
   <version>0.1</version>
   <name>hiring Maven Webapp</name>
   <url>http://maven.apache.org</url>
+  <properties>
   <sonar.host.url>http://18.220.60.237:9000/</sonar.host.url>
   <sonar.login>sqa_cdcf93c32dd690fcf641b3a61907f096831cb84e</sonar.login>
+  </properties>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
