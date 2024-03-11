@@ -22,7 +22,7 @@
   <distributionManagement>
     <repository>
 	      <id>nexus</id>
-	      <url>http://3.138.198.105:8081/repository/project/</url>
+	      <url>http://18.224.135.43:8081/repository/project/</url>
 	    </repository>
   </distributionManagement>
   <build>
