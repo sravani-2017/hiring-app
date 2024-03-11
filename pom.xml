@@ -8,8 +8,8 @@
   <name>hiring Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <properties>
-  <sonar.host.url>http://3.138.198.105:9000/</sonar.host.url>
-  <sonar.login>sqa_43fd9bcc64d0211ea904fc8ccf82de789dd49d6b</sonar.login>
+  <sonar.host.url>http://18.224.135.43:9000/</sonar.host.url>
+  <sonar.login>sqa_b1cc341a50bc896b92877226ae8ea4ce796480f3</sonar.login>
   </properties>
   <dependencies>
     <dependency>
