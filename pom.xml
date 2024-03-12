@@ -22,8 +22,13 @@
   <distributionManagement>
     <repository>
 	      <id>nexus</id>
-	      <url>http://18.117.221.246:8081/repository/project/</url>
+	      <url>http://44.212.45.46:8081/repository/maven-releases/</url>
 	    </repository>
+
+	    <snapshotRepostory>
+	        <id>nexus</id>
+		<url>http://44.212.45.46:8081/repository/maven-snapshots//</url>
+		    
   </distributionManagement>
   <build>
     <plugins>
